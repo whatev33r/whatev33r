@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,bash,linux,vim" />
+    <img src="https://skillicons.dev/icons?i=python,bash,linux,vim,regex" />
   </a>
 </p>
 
